@@ -10,8 +10,6 @@
 !              not work as expected, but few rules will work in alphabetically.
 
 ! ?modules request block
-||facebook.com/*?modules*AYMTHomepagePanelTypedLogger$important
-||facebook.com/*?modules*AbandonedSessionSurvey$important
 ||facebook.com/*?modules*AdAllocationIntegrityGapsInfo$important
 ||facebook.com/*?modules*AdAllocationIntegrityUtils$important
 ||facebook.com/*?modules*AdBlockerDetectorLogging$important
@@ -42,7 +40,6 @@
 ||facebook.com/*?modules*AdsInterfacesRouteConstants$important
 ||facebook.com/*?modules*AdsLWIErrorCode$important
 ||facebook.com/*?modules*AdsLWISimilarPromotionsNoticeContainer$important
-||facebook.com/*?modules*AdsLoadState$important
 ||facebook.com/*?modules*AdsLogger$important
 ||facebook.com/*?modules*AdsLoggerConstants$important
 ||facebook.com/*?modules*AdsMouseStateStore$important
@@ -82,5 +79,4 @@
 ||facebook.com/*?modules*AdsTransparencyProductElement$important
 ||facebook.com/*?modules*AdsTransparencySurveyTypedLogger$important
 ||facebook.com/*?modules*AdsTransparencyTypedLogger$important
-||facebook.com/*?modules*AdsVideoFetcher$important
 ||facebook.com/*?modules*AdvertiserHomePagelet$important
