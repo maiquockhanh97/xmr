@@ -1,13 +1,7 @@
 [uBlock Origin 1.16.7.2]
-! Title: Facebook Modules Commands List
-! Version: 202010012237
-! Expires: 2 days
-! Author: kowith337
-! Homepage: https://github.com/kowith337/PersonalFilterListCollection/blob/master/filterlist/facebook
-! Mirror: https://gitlab.com/kowith337/PersonalFilterListCollection/raw/master/filterlist/facebook/FacebookCommands.txt
-! Description: This filter isn't recommended to use publicly, it might broke entire Facebook functions because these rules below
-!              will disable many JavaScript functions and also prevent lots of network requests, although the script blocking may
-!              not work as expected, but few rules will work in alphabetically.
+! Title: Facebook Block Ads
+! Version: 197
+
 
 ! ?modules request block
 ||facebook.com/*?modules*AdAllocationIntegrityGapsInfo$important
